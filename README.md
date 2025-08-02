@@ -1,4 +1,5 @@
 Retail Forecasting App
+
 This is a Streamlit web application for forecasting monthly retail transactions using Prophet time series model. 
 The app is designed to support business planning through interactive forecasting and visualization features.
 
